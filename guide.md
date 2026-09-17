@@ -37,8 +37,6 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
-
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
